@@ -12,14 +12,12 @@ A Proposta desse projeto é exatamente essa: termos um site vinculado a um banco
 
 ## Tecnologias
 
-![Logo do Python](https://www.python.org/static/community_logos/python-logo.png)
+| | |
+|-|-|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Logo do Python"> | **Python**: Automação e integração com Banco de dados |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" alt="Logo do HTML5"> | **HTML5**: Criação do template |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" alt="Logo do CSS3"> | **CSS3**: Estilização |
+| <img src="https://nodejs.org/static/images/logo.svg" width="100" alt="Logo do Node.js"> | **Node.js**: Para o servidor |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" alt="Logo do React"> | **React**: Criação da UI |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="100" alt="Ícone de Banco de Dados"> | **Banco de Dados**: Salvar as informações do usuário |
 
-![Logo do HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-
-![Logo do CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-
-![Logo do Node.js](https://nodejs.org/static/images/logo.svg)
-
-![Logo do React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-
-![Ícone de Banco de Dados](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
