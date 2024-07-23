@@ -12,7 +12,7 @@ A Proposta desse projeto é exatamente essa: termos um site vinculado a um banco
 
 ## Tecnologias
 
-| | |
+|Tecnologia|Motivo|
 |-|-|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Logo do Python"> | **Python**: Automação e integração com Banco de dados |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" alt="Logo do HTML5"> | **HTML5**: Criação do template |
